@@ -1,0 +1,12 @@
+[
+  {"latex": "\\sum_{i=1}^n i = \\frac{n(n+1)}{2}", "order_index": 1},
+  {"latex": "a^2 + b^2 = c^2", "order_index": 2},
+  {"latex": "e^{i\\pi} + 1 = 0", "order_index": 3},
+  {"latex": "\\nabla \\cdot \\mathbf{E} = \\frac{\\rho}{\\varepsilon_0}", "order_index": 4},
+  {"latex": "\\int_{-\\infty}^{\\infty} e^{-x^2} dx = \\sqrt{\\pi}", "order_index": 5},
+  {"latex": "f(x) = f(a) + f'(a)(x-a) + \\frac{f''(a)}{2!}(x-a)^2", "order_index": 6},
+  {"latex": "\\det(A) = \\sum_{\\sigma \\in S_n} \\operatorname{sgn}(\\sigma) \\prod_{i=1}^n a_{i,\\sigma(i)}", "order_index": 7},
+  {"latex": "V - E + F = 2", "order_index": 8},
+  {"latex": "\\mathbf{F} = G \\frac{m_1 m_2}{r^2}", "order_index": 9},
+  {"latex": "i \\hbar \\frac{\\partial}{\\partial t} \\Psi(\\mathbf{r}, t) = \\hat{H} \\Psi(\\mathbf{r}, t)", "order_index": 10}
+]
